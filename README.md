@@ -33,7 +33,7 @@ To run this project, you need to have Docker installed on your machine. If you d
    Before running the container, build the Docker image using the following command:
 
    bash
-   docker build -t santiagozurita26/my-go-arq2 .
+   docker build -t santiagozurita26/my-go-arq .
 
 3. *Push the image to Docker Hub (if needed):*
 
